@@ -92,10 +92,3 @@ The app will open at `http://localhost:3000`
 - Mobile app version
 - Billing and revenue management system
 
-## License
-
-MIT
-
-## Contact
-
-For questions or support, please contact the development team.
